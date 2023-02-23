@@ -11,4 +11,6 @@
 
 conda create -p venv python==3.9.13 -y
 
+conda activate venv/
+
 '''
